@@ -1,0 +1,12 @@
+D:\Work\Proiect PNI\Cuantizare\Cuantizare\Cuantizare\bin\Release\Cuantizare.exe.config
+D:\Work\Proiect PNI\Cuantizare\Cuantizare\Cuantizare\bin\Release\Cuantizare.exe
+D:\Work\Proiect PNI\Cuantizare\Cuantizare\Cuantizare\bin\Release\Cuantizare.pdb
+D:\Work\Proiect PNI\Cuantizare\Cuantizare\Cuantizare\obj\Release\Cuantizare.Form1.resources
+D:\Work\Proiect PNI\Cuantizare\Cuantizare\Cuantizare\obj\Release\Cuantizare.Properties.Resources.resources
+D:\Work\Proiect PNI\Cuantizare\Cuantizare\Cuantizare\obj\Release\Cuantizare.csproj.GenerateResource.Cache
+D:\Work\Proiect PNI\Cuantizare\Cuantizare\Cuantizare\obj\Release\Cuantizare.exe
+D:\Work\Proiect PNI\Cuantizare\Cuantizare\Cuantizare\obj\Release\Cuantizare.pdb
+D:\Work\Proiect PNI\Cuantizare\Cuantizare\Cuantizare\obj\Release\Cuantizare.csprojResolveAssemblyReference.cache
+D:\Work\!Proiect PNI Cuantizare (uniforma,optimala)\Cuantizare\Cuantizare\Cuantizare\bin\Release\Cuantizare.exe.config
+D:\Work\!Proiect PNI Cuantizare (uniforma,optimala)\Cuantizare\Cuantizare\Cuantizare\obj\Release\Cuantizare.exe
+D:\Work\!Proiect PNI Cuantizare (uniforma,optimala)\Cuantizare\Cuantizare\Cuantizare\obj\Release\Cuantizare.pdb
